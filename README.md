@@ -1,4 +1,4 @@
-# Hamburgeria
+# Hamburgueria
 Criadores:
 
 Rodrigo Luiz Cardoso Junior           - RA 23000964-2
